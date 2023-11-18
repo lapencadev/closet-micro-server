@@ -16,3 +16,7 @@ Analysis/development
 1. Clone this repository.
 2. Execute `npm install` to install the dependencies.
 
+## Contact 
+
+- lapencadev@outlook.com
+
